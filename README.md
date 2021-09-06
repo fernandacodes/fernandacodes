@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Fernanda-de-Melo
-- 👀 I’m interested in Java, Kotlin, 
-- 🌱 I’m currently learning Web Desinger
-- 💞️ I’m looking to collaborate on Mobile and Web projects.
+- 👀 I’m interested .... 
+- 🌱 I’m currently ....
+- 💞️ I’m looking to collaborate on...
 - 📫 How to reach me fernandameloferr@gmail.com
 
 <!---
