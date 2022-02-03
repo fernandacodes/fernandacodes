@@ -2,8 +2,8 @@
 
 <div align="center">
   <a href="https://github.com/fernanda-de-melo">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-de-melo&show_icons=true&theme=tokyonight&hide=,contribs">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-de-melo&layout=compact&langs_count=7&theme=tokyonight">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-de-melo&show_icons=true&theme=tokyonight&hide=,contribs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-de-melo&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
   ## Social🗣️
