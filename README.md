@@ -27,4 +27,4 @@
     <img align="center" alt="fernanda-Booststrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
   
-  ![Snake animation](https://github.com/fernanda-de-melo/fernanda-de-melo/output/github-contribution-grid-snake.svg)
+  ![Snake animation] (https://github.com/fernanda-de-melo/fernanda-de-melo/output/github-contribution-grid-snake.svg)
