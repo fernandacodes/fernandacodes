@@ -6,7 +6,7 @@
 - 😎 Pronomes: ela/dela
 
 ##
-###
+### Minhas estatísticas 👾
 <div align="">
   <a href="https://github.com/fernandacodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacodes&show_icons=true&theme=tokyonight&hide=,contribs">
