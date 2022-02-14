@@ -1,4 +1,4 @@
-## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou [Fernanda Ferreira] (https://www.linkedin.com/in/fernandacodes/)
+## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou [Fernanda Ferreira](https://www.linkedin.com/in/fernandacodes/)
 ### Sobre mim ✍
 - 👨‍🎓 Graduanda em Ciência da Computação 
 - 💻 Técnica em Informática e Desenvolvedora Back end
