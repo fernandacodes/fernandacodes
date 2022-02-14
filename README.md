@@ -5,16 +5,19 @@
 - 📚 Estudando Haskell e Python
 - 😎 Pronomes: ela/dela
 
+##
 
 <div align="">
   <a href="https://github.com/fernandacodes">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacodes&show_icons=true&theme=tokyonight&hide=,contribs">
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacodes&layout=compact&langs_count=7&theme=tokyonight">
 </div>
-  
+
   <br><br>
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fernandacodes)
- 
+  
+##
+  
 #### Skills📚
   <div style="display: inline_block"><br>
     <img align="center" alt="fernanda-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -28,6 +31,8 @@
     <img align="center" alt="fernanda-VuesJs" src="https://img.shields.io/badge/Vue.js-35495E?style=for-the-badge&logo=vue.js&logoColor=4FC08D">
     <img align="center" alt="fernanda-Booststrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
+
+ ##
   
   ### Como me encontrar 🔍
   <div>
