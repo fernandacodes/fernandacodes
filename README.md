@@ -1,9 +1,9 @@
 ## Oii! Eu sou a Fernanda Ferreira🐇
 
 <div align="">
-  <a href="https://github.com/fernanda-de-melo">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernanda-de-melo&show_icons=true&theme=tokyonight&hide=,contribs">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernanda-de-melo&layout=compact&langs_count=7&theme=tokyonight">
+  <a href="https://github.com/fernandacodes">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=fernandacodes&show_icons=true&theme=tokyonight&hide=,contribs">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacodes&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
   ## Social🗣️
@@ -30,4 +30,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/fernanda-de-melo/fernanda-de-melo/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fernanda-de-melo/fernandacodes/blob/output/github-contribution-grid-snake.svg)
