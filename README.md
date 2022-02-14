@@ -1,4 +1,10 @@
-## Oii! Eu sou a Fernanda Ferreira🐇
+## Olá <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, eu sou [Fernanda Ferreira (https://www.linkedin.com/in/fernandacodes/)
+### Sobre mim ✍
+- 👨‍🎓 Graduanda em Ciência da Computação 
+- 💻 Técnica em Informática e Desenvolvedora Back end
+- 📚 Estudando Haskell e Python
+- 😎 Pronomes: ela/dela
+
 
 <div align="">
   <a href="https://github.com/fernandacodes">
