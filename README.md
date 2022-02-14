@@ -30,4 +30,4 @@
   
 ##
   
-  ![Snake animation](https://github.com/fernanda-de-melo/fernandacodes/blob/output/github-contribution-grid-snake.svg)
+  ![Snake animation](https://github.com/fernandacodes/fernandacodes/blob/output/github-contribution-grid-snake.svg)
