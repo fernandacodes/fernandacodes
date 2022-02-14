@@ -19,7 +19,14 @@
      <a href="https://twitter.com/fernandacodes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
   </div>
   
+  
+  
+  
+  <br><br>
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fernandacodes)
+  
+  
+  
   
 #### Skills📚
   <div style="display: inline_block"><br>
