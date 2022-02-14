@@ -12,22 +12,9 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacodes&layout=compact&langs_count=7&theme=tokyonight">
 </div>
   
-  ## Social🗣️
-  <div>
-    <a href="https://www.linkedin.com/in/fernandacodes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-    <a href="mailto:fernandameloferr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-     <a href="https://twitter.com/fernandacodes" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" target="_blank"></a>
-  </div>
-  
-  
-  
-  
   <br><br>
   ![visitors](https://visitor-badge.laobi.icu/badge?page_id=fernandacodes)
-  
-  
-  
-  
+ 
 #### Skills📚
   <div style="display: inline_block"><br>
     <img align="center" alt="fernanda-Js" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E">
@@ -42,7 +29,11 @@
     <img align="center" alt="fernanda-Booststrap" src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white">
   </div>
   
-  
-##
+  ### Como me encontrar 🔍
+  <div>
+    <a href="https://www.linkedin.com/in/fernandacodes/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+    <a href="mailto:fernandameloferr@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+    <a href="https://www.instagram.com/fernandacodes_/" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+  </div> 
   
   ![Snake animation](https://github.com/fernandacodes/fernandacodes/blob/output/github-contribution-grid-snake.svg)
