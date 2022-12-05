@@ -2,7 +2,7 @@
 ### Sobre mim ✍
 - 👨‍🎓 Cursando Ciência da Computação 
 - 💻 Técnica em Informática e Desenvolvedora Back end
-- 📚 Estudando Python
+- 📚 Estudando C*
 - 😎 Pronomes: ela/dela
 
 ##
