@@ -17,5 +17,4 @@
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
----
   ![Snake animation](https://github.com/fernandacodes/fernandacodes/blob/output/github-contribution-grid-snake.svg)
