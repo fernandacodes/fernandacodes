@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍🎓 Cursando Ciência da Computação<br>💻 Técnica em Informática e Desenvolvedora Back end<br>📚 Estudando C<br>
+👨‍🎓 Cursando Ciência da Computação<br>💻 Técnica em Informática e Desenvolvedora Back end<br>📚 Estudando Web<br>
 
 
 ## 🌐 Socials:
