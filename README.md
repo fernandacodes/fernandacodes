@@ -53,7 +53,7 @@ console.log(fernanda.whoIAm());
 ```
 ### Output
 ```
-  👩‍💻 My name is Fernanda de Melo Ferreira 
+ 👩‍💻 My name is Fernanda de Melo Ferreira 
  🎓 I'm a(n) Computer science Graduating Student at Amazonas Federal University 
  💼 Currently, I'm working as a(n) Software Developer Trainee  at TCE/AM 
  📚 My time is being spent learning Back End Development (TypeScript/Python/C#) 
