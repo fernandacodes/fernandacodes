@@ -41,8 +41,8 @@ class Me {
 const fernanda = new Me(
   "Fernanda Ferreira",
   "Information Systems",
-  "Amazonas State University",
-  "Back-end Developer Intern",
+  "Amazonas Federal University",
+  "Back-end Developer Trainee",
   "Awesome Tech",
   "Back End Development (TypeScript/Python/C#)",
   "She/Her"
