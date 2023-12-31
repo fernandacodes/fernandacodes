@@ -1,6 +1,6 @@
-# Olá! 👋🏼, Eu sou [Fernanda Ferreira](https://www.linkedin.com/in/fernandaferreira/)
+# Hello  👋🏼, I am[Fernanda Ferreira](https://www.linkedin.com/in/fernandaferreira/)
 
-## Trecho de código sobre mim 🤗
+## Code snippet about me 🤗
 ```typescript
 class Me {
   private name: string;
@@ -60,3 +60,20 @@ console.log(fernanda.whoIAm());
  😎 Pronouns: She/Her
 
 ```
+## My stats 📈
+<div align=left>
+   <a href="https://wakatime.com/@fernandacodes"><img src="https://github-readme-stats.vercel.app/api/wakatime?username=fernandacodes&theme=dracula&background_color=272A36&hide_border=true"/></a>
+  <a href="https://github.com/fernandacodes"><img src="http://github-readme-streak-stats.herokuapp.com?user=fernandacodes&theme=dracula&hide_border=true"/></a>
+  <a href="https://github.com/fernandacodes"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=fernandacodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
+  <a href="https://github.com/fernandacodes"><img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacodes&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a>
+</div>
+
+## Languages, tools, and frameworks that I'm working on 🛠
+ <div style="display: inline_block">
+  <a href="https://www.javascript.com/"><img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"></a>
+  <a href="https://www.typescriptlang.org/"><img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white"></a>
+  <a href="https://www.python.org/"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"></a>
+  <a href="https://www.docker.com/"><img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white"></a>
+  <a href="https://powerbi.microsoft.com/"><img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=power-bi&logoColor=black"></a>
+  <a href="https://git-scm.com/"><img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white"></a>
+ </div>
