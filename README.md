@@ -43,7 +43,7 @@ const fernanda = new Me(
   "Information Systems",
   "Amazonas Federal University",
   "Back-end Developer Trainee",
-  "Awesome Tech",
+  "TCE/AM",
   "Back End Development (TypeScript/Python/C#)",
   "She/Her"
 );
