@@ -60,13 +60,6 @@ console.log(fernanda.whoIAm());
  😎 Pronouns: She/Her
 
 ```
-## My stats 📈
-<div align=left>
-  <a href="https://wakatime.com/@fernandacodes">
-  <a href="https://github.com/fernandacodes"><img src="http://github-readme-streak-stats.herokuapp.com?user=fernandacodes&theme=dracula&hide_border=true"/></a>
-  <a href="https://github.com/fernandacodes"><img width="495em" src="https://github-readme-stats.vercel.app/api?username=fernandacodes&show_icons=true&theme=dracula&include_all_commits=true&count_private=false&hide_border=true"/></a>
-  <a href="https://github.com/fernandacodes"><img width="495em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=fernandacodes&layout=compact&langs_count=7&theme=dracula&hide_border=true" /></a>
-</div>
 
 ## Languages, tools, and frameworks that I'm working on 🛠
  <div style="display: inline_block">
