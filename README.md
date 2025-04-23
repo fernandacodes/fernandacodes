@@ -6,6 +6,14 @@
  - 📚 I'm focused on learning Back-end Development (TypeScript/Python/Vue) 
  - 😎 Hobbies: FPS games and fiction books
 
+###
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/fernandacodes/fernandacodes/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/fernandacodes/fernandacodes/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/fernandacodes/fernandacodes/output/github-snake.svg" />
+</picture>
+
 
 ## :point_right: How to find me:
 
